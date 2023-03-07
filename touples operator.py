@@ -1,0 +1,16 @@
+'''print(())
+print((1,2,3))
+print((1,2.2,3.4,5.9))
+print(('a','b','c'))
+print(("Nisha","Neha","Soniya"))
+print(('a',1,1.5,"Python"))'''
+t=(input())
+tuple1=()
+tuple2=()
+print(tuple(t))
+print(eval(input()))
+#cmp(tuple1,tuple2)
+len(tuple1)
+max(tuple1)
+min(tuple1)
+
